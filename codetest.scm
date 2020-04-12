@@ -21,6 +21,9 @@ int main()
         case '-':
             cout << num1-num2;
             break;
+case '-':
+            cout << num1-num2;
+            break;
 
         case '*':
             cout << num1*num2;
